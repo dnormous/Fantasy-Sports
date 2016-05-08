@@ -1,3 +1,3 @@
 # Fantasy-Sports
 
-# R scripts and excel files for seasonal and daily fantasy sports
+R scripts and excel files for seasonal and daily fantasy sports
